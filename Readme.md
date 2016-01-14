@@ -14,5 +14,7 @@ that you are given the "true" length of the string. (Note: If implementing in Ja
 please use a character array so that you can perform this operation in place.)
 
 Example
+```
 Input:  "Mr John Smit     ", 13
 Output: "Mr%20John%20Smith"
+```
